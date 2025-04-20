@@ -1,5 +1,7 @@
 # Microblog
 
+THIS IS A INCOMPLETE PROJECT. I MIGHT NOT WORK ON IT AGAIN.
+
 A microblogging website written in Flask where users can create accounts, share posts, and much more.
 
 ## Features
